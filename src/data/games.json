@@ -1,0 +1,44 @@
+[
+  {
+    "id": "G001",
+    "title": "Neon Strike",
+    "category": "Action",
+    "description": "Fast-paced kinetic combat in a procedurally generated grid world.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "G014",
+    "title": "Circuit Flux",
+    "category": "Puzzle",
+    "description": "Manipulate high-voltage nodes to power the core city systems.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "G082",
+    "title": "Velocity Pro",
+    "category": "Sports",
+    "description": "Pixel-perfect skating mechanics with a synthwave aesthetic.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "G103",
+    "title": "Echo Void",
+    "category": "Platformer",
+    "description": "Navigate a world that only exists when you make sound.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "G112",
+    "title": "Terra-Mono",
+    "category": "Sandbox",
+    "description": "Build monolithic structures in an infinite gray desert.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "G135",
+    "title": "Titan Cell",
+    "category": "Strategy",
+    "description": "Micro-organism combat simulator. Conquer the petri dish.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html"
+  }
+]
